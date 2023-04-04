@@ -8,7 +8,7 @@
       "searchable": 1,
       "filterable": 1,
       "switchable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/net775/test/token.txt",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
     {
@@ -30,7 +30,7 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/net775/test/token.txt",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
     {
@@ -41,7 +41,7 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/net775/test/token.txt",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
     {
@@ -52,7 +52,7 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/net775/test/token.txt$$$yingshi$$$abcd1234",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
     {
@@ -63,7 +63,7 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/net775/test/token.txt",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     }
   ]
